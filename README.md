@@ -2,10 +2,10 @@
 google colabs following Karpathy's series 
 
 
-##First MLP
+## First MLP
 https://colab.research.google.com/drive/1Hhq3m_LpCQuuvLeGE0di2acgOrlrnu67?usp=sharing
 
-##Makemore
+## Makemore
 https://colab.research.google.com/drive/1bvCKRILGy3aUlEatZgSOcucXfT9DqlRl?usp=sharing
 
 ## Makemore - Trigram Implementation
